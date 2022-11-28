@@ -11,7 +11,7 @@ Status: 진행 중
         - 특징이 곧 선정이유는 느낌..?
 - Flutter
     
-    <img src="../Image_file/Flutter.jpeg" width="500">
+    <img src="../Image_file/Flutter.jpeg" width="300">
     
     [https://github.com/flutter/flutter](https://github.com/flutter/flutter)
     
@@ -56,7 +56,7 @@ Status: 진행 중
 - **PostgreSQL**
     
     ① PostgreSQL(포스트그레스큐엘) : 회원정보등 다양한 데이터 저장
-    <img src="../Image_file/PostgreSQL.jpeg" width="500">
+    <img src="../Image_file/PostgreSQL.jpeg" width="300">
     
     [https://github.com/postgres/postgres](https://github.com/postgres/postgres)
     
@@ -101,7 +101,7 @@ Status: 진행 중
     
 - 아이콘 오픈소스
     - 프론트엔드 아이콘: Font-awesome
-    <img src="../Image_file/PostgreSQL.jpeg" width="500">
+    <img src="../Image_file/FontAwesome.jpeg" width="300">
     
     [https://www.notion.so](https://www.notion.so)
     
@@ -132,7 +132,7 @@ Status: 진행 중
 - 오픈스트리트맵
     
     오픈스트리트맵(OSM): OpenstreetMap은 무료로 편집 가능한 전 세계의 오픈 콘텐츠 라이센스로 출시된 지도(지리 공간 데이터베이스)이다.
-    <img src="../Image_file/OSM.jpeg" width="500">
+    <img src="../Image_file/OSM.jpeg" width="300">
     
     라이선스
     
