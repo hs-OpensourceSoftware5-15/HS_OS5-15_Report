@@ -1,8 +1,5 @@
 # OS Final Report
 
-Date Created: November 21, 2022 4:21 PM
-Status: 진행 중
-
 # 오픈소스 최종 보고서
 
 ### 4.4. 3D 모델링 객체 불러와서 인테리어 배치
