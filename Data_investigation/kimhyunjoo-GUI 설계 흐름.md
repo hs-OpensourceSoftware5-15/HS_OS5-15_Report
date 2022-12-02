@@ -53,11 +53,17 @@
 
 ### 5.4.2. AR - 방 위치에 따른 인테리어 가구 추천
 
-<figure class="third"> 
+<div style="display:flex">
+ <div style="flex:1;padding-right:10px;">
 	<img src="../Image_file/GUI07.png" height="500">
+</div>
+ <div style="flex:1;padding-right:10px;">
 	<img src="../Image_file/GUI08.png" height="500">
+</div>
+ <div style="flex:1;padding-right:10px;">
 	<img src="../Image_file/GUI09.png" height="500">
-</figure>
+</div>
+</div>
 
 - 사용자가 카메라로 비추는 장소를 분석하여 거실, 주방, 화장실 등 어느 방인지 예측합니다.
     - CNN 알고리즘을 사용합니다.
