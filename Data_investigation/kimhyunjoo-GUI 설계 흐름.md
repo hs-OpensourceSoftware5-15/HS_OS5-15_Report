@@ -29,11 +29,11 @@
 
 ### 5.3. 검색
 
-<figure class="third"> 
+<div style="display:grid; grid-template-columns : 1fr 1fr 1fr"; column-gap : 20px;>
 	<img src="../Image_file/GUI03.png" height="500">
 	<img src="../Image_file/GUI04.png" height="500">
 	<img src="../Image_file/GUI05.png" height="500">
-</figure>
+</div>
 
 - 검색어를 아직 입력하지 않았을 때, 콘텐츠 기반 필터링 및 협업 필터링 방법으로 분석된 사용자 맞춤 데이터를 기반으로 사용자가 관심있어할만한 인테리어 가구들을 보여줍니다.
     - 콘텐츠 기반 필터링(Content-based Filtering) : 사용자가 소비한 아이템에 대해 아이템의 내용(content)이 비슷하거나 특별한 관계가 있는 다른 아이템을 추천하는 방법입니다.
@@ -53,7 +53,7 @@
 
 ### 5.4.2. AR - 방 위치에 따른 인테리어 가구 추천
 
-<div style="display:grid; grid-template-columns : 1fr 1fr 1fr">
+<div style="display:grid; grid-template-columns : 1fr 1fr 1fr"; column-gap : 20px;>
 	<img src="../Image_file/GUI07.png" height="500">
 	<img src="../Image_file/GUI08.png" height="500">
 	<img src="../Image_file/GUI09.png" height="500">
