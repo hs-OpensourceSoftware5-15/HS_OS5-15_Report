@@ -28,11 +28,12 @@
 - 이 중 검색 서비스(5.3), AR 서비스 GUI(5.4)에 대해 아래에서 상세하게 설명합니다.
 
 ### 5.3. 검색
+
 <figure class="third"> 
 	<img src="../Image_file/GUI03.png" height="500">
 	<img src="../Image_file/GUI04.png" height="500">
 	<img src="../Image_file/GUI05.png" height="500">
-figure>
+</figure>
 
 - 검색어를 아직 입력하지 않았을 때, 콘텐츠 기반 필터링 및 협업 필터링 방법으로 분석된 사용자 맞춤 데이터를 기반으로 사용자가 관심있어할만한 인테리어 가구들을 보여줍니다.
     - 콘텐츠 기반 필터링(Content-based Filtering) : 사용자가 소비한 아이템에 대해 아이템의 내용(content)이 비슷하거나 특별한 관계가 있는 다른 아이템을 추천하는 방법입니다.
@@ -56,7 +57,7 @@ figure>
 	<img src="../Image_file/GUI07.png" height="500">
 	<img src="../Image_file/GUI08.png" height="500">
 	<img src="../Image_file/GUI09.png" height="500">
-figure>
+</figure>
 
 - 사용자가 카메라로 비추는 장소를 분석하여 거실, 주방, 화장실 등 어느 방인지 예측합니다.
     - CNN 알고리즘을 사용합니다.
