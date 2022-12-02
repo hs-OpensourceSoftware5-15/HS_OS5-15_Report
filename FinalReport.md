@@ -160,7 +160,7 @@ Font-Awesome
 
 ### 6.1. 시작 : 사용자 선호도 조사
 
-<img src="../Image_file/GUI01.png" height="500">
+<img src="./Image_file/GUI01.png" height="500">
 
 - 앱에 최초로 접속했을 때 나타나는 사용자 선호도 조사 화면입니다.
 - 사용자가 처음 서비스를 접하게 되면 아직 데이터가 없기 때문에 기본적인 가구 인테리어 분위기에 대한 선호도를 조사하여 데이터를 수집합니다.
@@ -168,7 +168,7 @@ Font-Awesome
 
 ### 6.2. 메인
 
-<img src="../Image_file/GUI02.png" height="500">
+<img src="./Image_file/GUI02.png" height="500">
 
 - 앱 시작시 메인이 되는 화면입니다.
 - 이벤트 및 새로운 프로모션을 소개하는 캐러셀 슬라이더가 상단에 있습니다.
@@ -188,9 +188,9 @@ Font-Awesome
 ### 6.3. 검색
 
 <div style="display:grid; grid-template-columns : 1fr 1fr 1fr"; column-gap : 20px;>
-	<img src="../Image_file/GUI03.png" height="500">
-	<img src="../Image_file/GUI04.png" height="500">
-	<img src="../Image_file/GUI05.png" height="500">
+	<img src="./Image_file/GUI03.png" height="500">
+	<img src="./Image_file/GUI04.png" height="500">
+	<img src="./Image_file/GUI05.png" height="500">
 </div>
 
 - 검색어를 아직 입력하지 않았을 때, 콘텐츠 기반 필터링 및 협업 필터링 방법으로 분석된 사용자 맞춤 데이터를 기반으로 사용자가 관심있어할만한 인테리어 가구들을 보여줍니다.
@@ -201,7 +201,7 @@ Font-Awesome
 
 ### 6.4.1. AR - AR 인테리어 가구 배치
 
-<img src="../Image_file/GUI06.png" height="500">
+<img src="./Image_file/GUI06.png" height="500">
 
 - 카메라가 켜지면서 사용자는 방을 실시간으로 촬영하게 됩니다.
 - 아래의 메뉴를 클릭하면 검색창 및 3D 인테리어 가구 모형이 뜹니다.
@@ -212,9 +212,9 @@ Font-Awesome
 ### 6.4.2. AR - 방 위치에 따른 인테리어 가구 추천
 
 <div style="display:grid; grid-template-columns : 1fr 1fr 1fr"; column-gap : 20px;>
-	<img src="../Image_file/GUI07.png" height="500">
-	<img src="../Image_file/GUI08.png" height="500">
-	<img src="../Image_file/GUI09.png" height="500">
+	<img src="./Image_file/GUI07.png" height="500">
+	<img src="./Image_file/GUI08.png" height="500">
+	<img src="./Image_file/GUI09.png" height="500">
 </div>
 
 - 사용자가 카메라로 비추는 장소를 분석하여 거실, 주방, 화장실 등 어느 방인지 예측합니다.
