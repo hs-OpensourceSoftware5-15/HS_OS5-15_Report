@@ -54,17 +54,17 @@
 
 ### 7. 오픈소스 & 오픈소스 라이센스
 
-    7.1	Flutter, PyTorch - BSD License
+    7.1. Flutter, PyTorch - BSD License
 
-    7.2	Pandas, Numpy - BSD 3-Clause License
+    7.2. Pandas, Numpy - BSD 3-Clause License
 
-    7.3	AR core, Solr - Apache Lisence
+    7.3. AR core, Solr - Apache Lisence
 
-    7.4	Font – awesome – SIL Open Font License
+    7.4. Font – awesome – SIL Open Font License
 
-    7.5	PostgreSQL - PostgreSQL License
+    7.5. PostgreSQL - PostgreSQL License
 
-    7.6	OpenStreetMap - Open Database License(ODbL)
+    7.6. OpenStreetMap - Open Database License(ODbL)
 
 
 
@@ -447,8 +447,9 @@ Font-Awesome
 
 # 7. 오픈소스 & 오픈소스 라이선스
 
-### 7.1 Flutter, PyTorch - BSD License
+### 7.1. Flutter, PyTorch - BSD License
 **Flutter**
+
 <img src="./Image_file/Flutter.jpeg" width="400">
 
 - 오픈소스 소개 및 특징
@@ -457,6 +458,7 @@ Font-Awesome
     - 소스코드를 네이티브로 직접 컴파일하며 UI 자체 렌더링 엔진으로 직접 렌더링하여 위젯이 빠르고 자연스럽게 잘 동작하며 커스터마이징과 확장이 쉽기 때문에 좋은 성능을 가지고 있습니다.
 
 **PyTorch**
+
 <img src="./Image_file/Pytorch_logo.png" width="300">
 
 - 오픈소스 소개 및 특징
@@ -475,8 +477,9 @@ Font-Awesome
     - BSD 라이선스에 따른 프로그램을 바이너리 형태로 재배포하는 경우에는 소스코드를 배포하는 경우와 마찬가지로 배포판과 함께 제공되는 문서에 면책조항을 담아야 합니다.
     - BSD 라이선스의 경우 의무사항만 준수한다면 소스코드를 공개하지 않아도 됩니다.
 
-### 7.2 Pandas, Numpy - BSD 3-Clause License
+### 7.2. Pandas, Numpy - BSD 3-Clause License
 **Pandas**
+
 <img src="./Image_file/Pandas_logo.png" width="400">
 
 - 오픈소스 소개 및 특징
@@ -488,6 +491,7 @@ Font-Awesome
     - 데이터의 통계 및 시각화의 기능 및 누락된 데이터의 유연한 처리가 가능합니다.
 
 **Numpy**
+
 <img src="./Image_file/NumPy_logo.png" width="400">
 
 - 오픈소스 소개 및 특징
@@ -503,8 +507,9 @@ Font-Awesome
     - 사전 서면 승인없이는 저자의 이름이나 기여자들의 이름을 BSD SW로부터 파생된 제품을 보증하거나 홍보할 목적으로 사용해서는 안 된다는 항목이 3-Clause이상 라이선스에 추가됩니다.
     - 재배포시 저작권 표시, 준수 조건 및 보증부인에 대한 고지사항을 소스코드 또는 문서 및 기타 자료에 포함해야 합니다.
 
-### 7.3 AR core, Solr - Apache Lisence
+### 7.3. AR core, Solr - Apache Lisence
 **AR core**
+
 <img src="./Image_file/arcore_logo.png" width="400">
 
 - 오픈소스 소개 및 특징
@@ -526,6 +531,7 @@ Font-Awesome
             - AR Core는 조명 정보를 이용하여 주어진 카메라 이미지의 평균 강도, 색상 보정 등의 기능을 제공하며 이 기능들을 이용하여 계속 달라지는 대상을 더 정확하고 자연스럽게 표현할 수 있습니다.
 
 **Solr**
+
 <img src="./Image_file/solr_logo.png" width="300">
 
 - 오픈소스 소개 및 특징
@@ -545,8 +551,9 @@ Font-Awesome
     - SW를 배포하는 경우 저작권 표시, 보증책임이 없다는 내용을 표시해야 합니다.
     - 라이선스 적용 시 “Apache”재단의 이름과 라이선스의 내용을 명시해야 하며, 라이선스가 적용된 소스 코드를 수정했을 경우 외부에 그 사실을 밝혀야 합니다.
 
-### 7.4 Font – Awesome – SIL Open Font License
+### 7.4. Font – Awesome – SIL Open Font License
 **Font-awesome**
+
 <img src="./Image_file/FontAwesome.jpeg" width="400">
 
 - 오픈소스 소개 및 특징
@@ -562,8 +569,9 @@ Font-Awesome
     - 글꼴의 수정본은 원저작자의 명시적인 허가가 없을 경우 동일한 이름으로 제작 및 배포 불가능합니다.
     - 원저작자의 이름은 원저작자의 기여를 알리거나 원저작자가 명시적으로 허가하는 경우를 제외하고 수정본을 홍보,보증,광고하는데 사용할 수 없습니다.
 
-### 7.5 PostgreSQL - PostgreSQL License
+### 7.5. PostgreSQL - PostgreSQL License
 **PostgreSQL**
+
 <img src="./Image_file/PostgreSQL.jpeg" width="300">
 
 - 오픈소스 소개 및 특징
@@ -581,8 +589,9 @@ Font-Awesome
     - 저작권 고지사항을 지켰을 경우 이 SW및 설명서를 어던 목적으로든 무료로 서면 동의 없이 사용, 복사, 수정 및 배포할 수 있는 권한이 부여됩니다.
     - 이 소프트웨어와 문서의 사용으로 발생하는 문제에 대해 아무런 책임을 지지 않습니다.
 
-### 7.6 OpenStreetMap - Open Database License(ODbL)
+### 7.6. OpenStreetMap - Open Database License(ODbL)
 **OpenStreetMap**
+
 <img src="./Image_file/OSM.jpeg" width="200">
 
 - 오픈소스 소개 및 특징
