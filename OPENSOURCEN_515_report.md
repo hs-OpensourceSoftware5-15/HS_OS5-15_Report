@@ -450,41 +450,9 @@ Font-Awesome
 ### 7.1 Flutter, PyTorch - BSD License
 - Flutter
 <img src="./Image_file/Flutter.jpeg" width="400">
-https://github.com/flutter/flutter 
-    라이선스 : BSD License
-    특징
-    - Google에서 출시된 모바일/웹/데스크톱 크로스 플랫폼 GUI SDK
-    - Dart 언어 사용
-    - 하나의 코드 베이스로 안드로이드, 리눅스, Windows, macOS, iOS 및 웹브라우저에서 모두 동작 되는 앱을 위해 출시
-    - 개발 비용 절감
-    - 플랫폼에 관계없이 플러터용 테마 디자인 라이브러리 적용이나 테마 커스텀 가능
-    - 웹 브라우저에서 실행할 수 있으며 보안이 취약한 기존 JS 웹 앱 방식을 대체한 웹
-    - 어셈블리 모드로 한 임베드 웹 앱 영역에 사용하기 최적
-    - 소스코드를 네이티브로 직접 컴파일하며 UI 자체 렌더링 엔진으로 직접 렌더링하여 좋은 성능
-    - OEM 위젯이나 DOM 웹뷰를 사용하지 않고, 자체 위젯을 Canvas 위에 직접 렌더링
-    - 위젯이 빠르고 자연스럽게 잘 동작하며 커스터마이징과 확장이 쉽습니다.
-    - 간단한 코드로 레이아웃을 그릴 수 있습니다.
-    적용 사례
-    - 네이버 지식IN 어플
-    - Flutter는 Bridge를 거치지 않고 바로 Canvans에 UI를 렌더링하기 때문에 기대 이상의 성능을 보여 줍니다. 화면 렌더링 시 60fps의 성능이 나올 수 있다면 앱의 동작이 충분히 부드러워 사용성이 좋아지는데, 네이티브 방식과 Flutter, React Native 모두 60fps에 근접한 성능을 보여 줍니다.
 
 - PyTorch
 <img src="./Image_file/Pytorch_logo.png" width="300">
-https://github.com/pytorch/pytorch
-    라이선스 : BSD License
-    특징
-    - 이미지 및 영상 데이터 처리를 개발하기 위한 여러 API 들 존재
-    - 디버깅이 쉽고 직관적이고 간결한 코드
-    - 연산 정의와 값 초기화가 동시에 이루어져 실시간 결과값을 시각화
-    - 학습 및 추론 속도가 매우 빠르며 다루기 쉬움
-    - Define by Run 방식을 기반으로 한 실시간 결과값을 시각화 합니다.
-    - Numpy 같은 파이썬 라이브러리와 높은 호환성을 가집니다.
-    - GPU 로도 연산이 가능합니다.
-    - 모델 그래프를 만들 때 정적인 상태가 아니므로 언제든지 데이터에 따라 조절 가능합니다.
-
-    활용 계획
-    - 유사도 분석으로 사용자가 관심 가질 가구를 추천해주는 시스템
-    - 촬영을 통해 사용자가 위치한 공간(거실 , 부엌 , 욕실 등)에 따라 인테리어를 추천해주는 시스템 - 딥러닝을 이용합니다.
 
 - BSD License
 
@@ -499,29 +467,9 @@ https://github.com/pytorch/pytorch
 ### 7.2 Pandas, Numpy - BSD 3-Clause License
 - Pandas
 <img src="./Image_file/Pandas_logo.png" width="400">
-https://github.com/pandas-dev/pandas
-    라이선스 : BSD 3 Clause License
-    특징
-    - 2 차원 배열 형태를 가지며 서로 다른 여러 데이터타입을 담을 수 있는 Dataframe 이라는 효과적인 자료구조를 제공하여 관계형 DB 분석에 적합합니다.
-    - 데이터의 가독성을 높이고 데이터 분석에 필요한 명령과 기능 제공
-    - 데이터 관리와 피보팅하기 편리합니다.
-    - 잘못 정렬된 데이터에 의한 오류 방지 및 다양한 방식으로 색인된 데이터 다룰 수 있습니다.
-    - 시계열 데이터와 비시계열 데이터를 함께 다룰 수 있는 통합 자료 구조
-    - SQL 테이블 또는 CSV 파일과 같은 테이블 형태의 데이터를 읽을 수 있고 일반 DB 처럼 데이터를 합치고 관계연산 수행하는 기능
-    - 데이터의 통계 및 시각화의 기능 및 누락된 데이터의 유연한 처리 활용계획
-    - DB 의 데이터를 2 차원 배열 형태로 읽어들여 가구 추천 머신러닝의 데이터로 제공
 
 - Numpy
 <img src="./Image_file/NumPy_logo.png" width="400">
-https://github.com/numpy/numpy
-    라이선스 : BSD 3 Clause License
-    특징
-    - 선형대수 계산식을 구현하는데 도움을 주는 오픈소스 Python 패키지
-    - 컴퓨터가 이미지 데이터를 위해서 숫자 형식의 배열이 필요한데 , 배열의 데이터가 커질수록 저장 및 가공의 효율성 보장합니다.
-    - 선형대수 함수가 내장되있어 빠르고 효율적인 이미지 계산
-    - Python 의 리스트보다 적은 메모리를 사용하며 계산 속도는 훨씬 빠름
-    - 반복문 없이 데이터 배열에 대한 처리를 지원 활용 계획
-    - 모델 훈련을 위한 이미지 여러장의 욕실 , 거실등의 이미지 또는 현재 촬영된 공간 이미지 등을 계산하여 머신러닝 데이터로 제공
 
 - BSD 3-Cluase License
 
@@ -534,47 +482,9 @@ https://github.com/numpy/numpy
 ### 7.3 AR core, Solr - Apache Lisence
 - AR core
 <img src="./Image_file/arcore_logo.png" width="400">
-https://github.com/google-ar/arcore-android-sdk
-    라이선스 : Apache License version 2.0
-    특징
-    - 구글에서 개발한 Android의 AR 소프트웨어 개발 키트(SDK)입니다.
-    - Android 뿐만 아니라 Unity(for Android, iOS), Unreal, Web, iOS 에서 SDK를 지원합니다.
-    - 애플의 AR 플랫폼인 ARKit는 iOS만 지원하기에 범용성이 좋은 AR Core를 선택했습니다.
-    - Java /OpenGL, Unity, Unreal 에서 주로 작동합니다.
-    - 모션추적, 환경인식, 조명추정의 3가지 주요 기능을 사용하여 스마트폰의 카메라를 통해 가상현실을 실제 세계와 통합하여 AR을 구현합니다.
-    - 모션추적
-    - 휴대폰의 카메라를 사용하여 실내의 특징 점을 추출하고, 추출된 특징점을 이용해서 사물, 장소 등 위치변화를 계산하는 기능입니다.
-    - 또한 디바이스가 보유한 IMU(Inertia Measurement Unit, 관성센서) 데이터를 활용함으로써 휴대폰의 움직임에 따른 휴대폰의 위치와 방향(포즈)을 결정합니다.
-    - 이에 따라 가상 물체가 계속 정확하게 배치됩니다.
-     환경인식
-    - 특징점과 평면을 감지하여 이 정보를 바탕으로 실제 환경에 대한 이해, 분석, 정보를 지속적으로 관리하는 기능입니다.
-    - 테이블, 벽면 등의 수평, 수직 표면으로 인식된 특징점이 포함되어 있는 클러스터를 찾아서 사용자가 평면으로서 사용할 수 있도록 정보를 제공해주며, 각 평면의 경계를 확인, 결정해줍니다.
-    - 이 정보들을 이용해서 가구같은 물체를 평면 위에 배치할 수 있습니다.
-    - 평면정보, 좌표와 특징점의 변화 등을 이용하여 디바이스의 움직임도 확인할 수 있습니다.
-    - 조명추정
-    - 카메라를 통해 입력되는 영상이미지에서 주변의 빛의 세기를 인식하고, 인식된 조명 정보를 이용하여 가상의 환경에서 실제와 유사한 환경을 표현할 수 있게 해줍니다.
-    - AR Core는 조명 정보를 이용하여 주어진 카메라 이미지의 평균 강도, 색상 보정 등의 기능을 제공하며 이 기능들을 이용하여 계속 달라지는 대상을 더 정확하고 자연스럽게 표현할 수 있습니다.
-
-    활용 계획
-    - AR환경에서 사용자는 가구 3D모형을 원하는 위치에 배치시켜 볼 수 있습니다.
 
 - Solr
 <img src="./Image_file/solr_logo.png" width="300">
-https://github.com/apache/solr
-    라이선스 : Apache License
-    특징
-    - Apache Lucene을 기반으로 만들어진 검색엔진으로, 검색 어플리케이션을 만드는데 사용합니다.
-    - 분산 검색 및 인덱스 복제를 지원하며, 확장성과 내결함성을 위하여 설계되었습니다.
-    - 색인을 하고, 목차를 만든 후, 검색을 합니다.
-    - 색인된 문서에 대한 검색속도가 다른 검색 프레임워크들보다 빠르고 확장성이 좋습니다.
-    - 오타교정, 검색어 자동완성, 분산 검색 처리 기능을 제공합니다.
-    - 검색기능에 더해 NoSQL 데이터베이스처럼 저장 목적으로 사용 가능합니다.
-    - 독립적인 Full-text 검색 서버로 실행됩니다. Lucene의 자바 검색라이브러리를 사용하여 full-text 인덱싱과 검색을 지원합니다.
-    - 또한, REST와 유사한 HTTP/XML, JSON API를 사용하기 때문에, 대부분의 프로그래밍 언어에 활용할 수 있습니다.
-    - Solr의 외부설정을 사용하면, JAVA 코딩 없이 사용하고자 하는 응용프로그램에 적용할 수 있으며, 고급사용자정의를 지원하는 플러그인 아키텍처가 있습니다.
-
-    활용 계획
-    - 가구정보를 검색할 때 검색어 자동완성을 비롯한 여러 편의성을 제공해줍니다.
 
 - Apache License
 
@@ -589,14 +499,6 @@ https://github.com/apache/solr
 ### 7.4 Font – awesome – SIL Open Font License
 - Font-awesome
 <img src="./Image_file/FontAwesome.jpeg" width="400">
-https://github.com/FortAwesome/Font-Awesome
-    특징
-    - 글씨로 취급받아 html font 속성을 사용할 수 있습니다.
-    -  css속성을 내가 원하는대로 커스터마이징할 수 있습니다.
-    -  무료
-    - 자바스크립트가 사용되지 않아 브라우저 호환성 문제가 적습니다.
-    - 검색 기능을 통해 원하는 아이콘을 쉽게 찾을 수 있습니다.
-    - 클래스 선언만으로 회전 애니메이션을 넣을 수 있습니다.
 
 - SIL Open Font License
 
@@ -611,21 +513,6 @@ https://github.com/FortAwesome/Font-Awesome
 ### 7.5 PostgreSQL - PostgreSQL License
 - PostgreSQL
 <img src="./Image_file/PostgreSQL.jpeg" width="300">
-https://github.com/postgres/postgres
-    라이선스 : PostgreSQL License
-    특징 
-    - The PostgreSQL Global Development Group 에서 개발 한 오픈 소스 RDBMS
-    - Enterprise 급 DBMS 기능을 갖 추었고 Oracle DB, MySQL, Microsoft S QL 에 이어 점유율 4 위
-    - ANSIC 로 개발되었으며 지원하는 플랫폼은 Windows, Linux, MAC OS, Unix 등 다양
-    - 객체 관계형 데이터베이스 시스템
-    - 클라이언트 서버 모델을 사용하여 서버는 다중 클라이언트 연결을 처리할 수 있습니다.
-    - 다양한 데이터베이스 객체를 사용자가 임의로 만들 수 있는 기능을 SQL 차원에서 제공
-    - 테이블 상속 기능을 이용하여 하위 테이블 생성 가능
-    - 관계형 DBMS 의 기본적인 기능인 트랜잭션과 ACID 를 지원
-    - DB 보안은 데이터 암호화 접근 제어 및 감시로 구성
-
-    활용 계획
-    - 사용자, 가구, 검색 등의 모든 데이터 저장 및 관리
 
 - PostgreSQL License
 
@@ -639,13 +526,6 @@ https://github.com/postgres/postgres
 ### 7.6 OpenStreetMap - Open Database License(ODbL)
 - OpenStreetMap
 <img src="./Image_file/OSM.jpeg" width="200">
-https://github.com/openstreetmap/openstreetmap-website
-    특징
-    - 사용자 계정, 일기항목, 사용자 간 메시징을 포함
-    - XML 및 JSON 기반 편집 API
-    - iD 편집기의 통합 버전
-    - 찾아보기 페이지 OpenStreetMap 데이터에 대한 웹 프런트 엔드
-    - GPX는 업로드, 브라우징 및 API를 제공
 
 - Open Database License(ODbL)
 
