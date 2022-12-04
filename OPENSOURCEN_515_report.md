@@ -546,7 +546,7 @@ Font-Awesome
     - 라이선스 적용 시 “Apache”재단의 이름과 라이선스의 내용을 명시해야 하며, 라이선스가 적용된 소스 코드를 수정했을 경우 외부에 그 사실을 밝혀야 합니다.
 
 ### 7.4 Font – Awesome – SIL Open Font License
-**ont-awesome**
+**Font-awesome**
 <img src="./Image_file/FontAwesome.jpeg" width="400">
 
 - 오픈소스 소개 및 특징
