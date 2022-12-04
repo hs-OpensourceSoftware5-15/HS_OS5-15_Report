@@ -54,6 +54,17 @@
 
 ### 7. 오픈소스 & 오픈소스 라이센스
 
+    7.1	Flutter, PyTorch - BSD License
+
+    7.2	Pandas, Numpy - BSD 3-Clause License
+
+    7.3	AR core, Solr - Apache Lisence
+
+    7.4	Font – awesome – SIL Open Font License
+
+    7.5	PostgreSQL - PostgreSQL License
+
+    7.6	OpenStreetMap - Open Database License(ODbL)
 
 
 
@@ -431,3 +442,97 @@ Font-Awesome
     - 이미지 분류가 완료되면 그에 따른 어울리는 가구를 추천합니다.
 - 예측된 결과에 따라 왼쪽 하단 팝업에서 방에 어울리는 가구를 추천합니다.
     - 예를 들어, 분석 결과 주방일 경우 조리대, 식탁, 식기건조대 등을 추천합니다.
+
+
+
+# 7. 오픈소스 & 오픈소스 라이선스
+
+### 7.1 Flutter, PyTorch - BSD License
+- Flutter
+<img src="./Image_file/Flutter.jpeg" width="400">
+
+- PyTorch
+<img src="./Image_file/Pytorch_logo.png" width="300">
+
+- BSD License
+
+**특징 및 제약조건** 
+
+- BSD계열 소프트웨어에 적용되는 라이선스. 소스코드를 공개하지 않아도 되는 대표적인 오픈소스 SW 라이선스 중 하나입니다.
+- SW에 대한 대가를 미국 국민의 세금으로 미리 지불했기 때문에 사람들에게 사용할 수 있는 범위가 넓어졌습니다.
+- SW를 배포하는 경우 저작권 표시, 보증책임이 없다는 내용을 표시해야 합니다.
+- BSD 라이선스에 따른 프로그램을 바이너리 형태로 재배포하는 경우에는 소스코드를 배포하는 경우와 마찬가지로 배포판과 함께 제공되는 문서에 면책조항을 담아야 합니다.
+- BSD 라이선스의 경우 의무사항만 준수한다면 소스코드를 공개하지 않아도 됩니다.
+
+### 7.2 Pandas, Numpy - BSD 3-Clause License
+- Pandas
+<img src="./Image_file/Pandas_logo.png" width="400">
+
+- Numpy
+<img src="./Image_file/NumPy_logo.png" width="400">
+
+- BSD 3-Cluase License
+
+**특징 및 제약조건**
+
+- “BSD-new”로 불리기도 합니다.  
+- 사전 서면 승인없이는 저자의 이름이나 기여자들의 이름을 BSD SW로부터 파생된 제품을 보증하거나 홍보할 목적으로 사용해서는 안 된다는 항목이 3-Clause이상 라이선스에 추가됩니다.
+- 재배포시 저작권 표시, 준수 조건 및 보증부인에 대한 고지사항을 소스코드 또는 문서 및 기타 자료에 포함해야 합니다.
+
+### 7.3 AR core, Solr - Apache Lisence
+- AR core
+<img src="./Image_file/arcore_logo.png" width="400">
+
+- Solr
+<img src="./Image_file/solr_logo.png" width="300">
+
+- Apache License
+
+**특징 및 제약조건**
+
+- 아파치 웹서버의 배포를 위해 만들어진 라이선스입니다. 아파치 재단이나 재단의 프로젝트에 의해서 만들어진 모든 소프트웨어는 현재 Apache License 2.0에 의해 배포되고 있습니다.
+- BSD 라이선스와 비슷하게 소스코드 공개 등의 의무가 발생하지 않습니다.
+- “Apache”라는 이름에 대한 상표권을 침해하지 않아야 한다는 조항이 있습니다.
+- SW를 배포하는 경우 저작권 표시, 보증책임이 없다는 내용을 표시해야 합니다.
+- 라이선스 적용 시 “Apache”재단의 이름과 라이선스의 내용을 명시해야 하며, 라이선스가 적용된 소스 코드를 수정했을 경우 외부에 그 사실을 밝혀야 합니다.
+
+### 7.4 Font – awesome – SIL Open Font License
+- Font-awesome
+<img src="./Image_file/FontAwesome.jpeg" width="400">
+
+- SIL Open Font License
+
+**특징 및 제약조건**
+
+- 국제 SIL에서 만든 자유 소프트웨어/오픈 소스 라이선스입니다.
+- Open Font License의 목표는 폰트를 공유하고 협력관계가 증진되는 자유롭고 공개된 구조를 제공하기 위함입니다.
+- 글꼴을 단독으로 판매하는 것을 금지하는 조항이 있어 GPL과는 호환되지 않지만 글꼴을 다른 프로그램과 함께 배포하거나 판매하는 것은 허용됩니다.
+- 글꼴의 수정본은 원저작자의 명시적인 허가가 없을 경우 동일한 이름으로 제작 및 배포 불가능합니다.
+- 원저작자의 이름은 원저작자의 기여를 알리거나 원저작자가 명시적으로 허가하는 경우를 제외하고 수정본을 홍보,보증,광고하는데 사용할 수 없습니다.
+
+### 7.5 PostgreSQL - PostgreSQL License
+- PostgreSQL
+<img src="./Image_file/PostgreSQL.jpeg" width="300">
+
+- PostgreSQL License
+
+**특징 및 제약조건**
+
+- PostgreSQL과 함께 배포되는 라이선스로서, BSD 또는 MIT 라이선스와 유사한, 매우 자유로운 라이선스입니다.
+- 저작권 고지사항을 지켰을 경우 이 SW및 설명서를 어던 목적으로든 무료로 서면 동의 없이 사용, 복사, 수정 및 배포할 수 있는 권한이 부여됩니다.
+- 이 소프트웨어와 문서의 사용으로 발생하는 문제에 대해 아무런 책임을 지지 않습니다.
+
+
+### 7.6 OpenStreetMap - Open Database License(ODbL)
+- OpenStreetMap
+<img src="./Image_file/OSM.jpeg" width="200">
+
+- Open Database License(ODbL)
+
+**특징 및 제약조건**
+
+- ODbl은 사용자가 저작권이나 소유권과 관련된 문제에 대해 걱정하지 않고 자유롭게 데이터를 공유할 수 있도록 하는 것을 목표로 만들었습니다.
+- 사용자는 다른 데이터베이스를 포함하여 데이터베이스의 데이터를 자유롭게 사용할 수 있고 기존 데이터를 편집합니다.
+- 데이터베이스 또는 그로부터 생성된 저작물을 사용 또는 재배포하려면 데이터베이스의 라이선스를 다른 사람에게 분명히 밝히고 원본 데이터베이스에 대한 모든 통지를 그대로 유지해야 합니다.
+- OpenStreetMap 기여자를 명시하면 데이터를 자유롭게 복사, 배포, 전송, 적용할 수 있습니다.
+- OpenStreetMap은 오픈 데이터이지만 타사 개발자를 위한 지도 API는 무료로 제공할 수 없습니다.
